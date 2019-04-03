@@ -25,6 +25,7 @@
     "bower": "^1.8.0",
     "browser-sync": "^2.17.5",
     "del": "^2.2.2",
+    "grunt": "^1.0.1",
     "gulp": "^3.9.1",
     "gulp-file": "^0.3.0",
     "gulp-s3-upload": "^1.6.1",
@@ -47,5 +48,9 @@
     "vinyl-buffer": "^1.0.0",
     "vinyl-source-stream": "^1.1.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "mustache": "^2.3.0",
+    "request-promise": "^4.1.1",
+    "xr": "^0.2.0"
+  }
 }
